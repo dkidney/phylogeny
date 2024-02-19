@@ -1,1 +1,12 @@
-prerequisites
+fig:nice-fig
+tab:nice-tab
+geological-time
+cenozoic-era
+intro
+literature
+methods
+math-example
+applications
+example-one
+example-two
+final-words
